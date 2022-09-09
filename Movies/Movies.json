@@ -1,0 +1,62 @@
+[
+	{
+		"Title":"Alita: Battle Angel",
+		"Year":"2019",
+		"Runtime":"122 min",
+		"Genre":"Action, Adventure, Sci-Fi, Thriller",
+		"Director":"Robert Rodriguez",
+		"Actors":"Rosa Salazar, Christoph Waltz, Jennifer Connelly, Mahershala Ali",
+		"Plot":"A deactivated cyborg is revived, but cannot remember anything of her past life and goes on a quest to find out who she is.",
+		"Country":"USA",
+		"Awards":"8 wins & 25 nominations.",
+		"Poster":"https://m.media-amazon.com/images/M/MV5BNzVhMjcxYjYtOTVhOS00MzQ1LWFiNTAtZmY2ZmJjNjIxMjllXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_SX300.jpg"
+	},
+	{
+		"Title":"Edge of Tomorrow",
+		"Year":"2014",
+		"Runtime":"113 min",
+		"Genre":"Action, Sci-Fi",
+		"Director":"Doug Liman",
+		"Actors":"Tom Cruise, Emily Blunt, Brendan Gleeson, Bill Paxton",
+		"Plot":"A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.",
+		"Country":"USA, Canada",
+		"Awards":"11 wins & 37 nominations.",
+		"Poster":"https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_SX300.jpg"
+	},
+	{
+		"Title":"Blade Runner 2049",
+		"Year":"2017",
+		"Runtime":"164 min",
+		"Genre":"Action, Drama, Mystery, Sci-Fi, Thriller",
+		"Director":"Denis Villeneuve",
+		"Actors":"Ryan Gosling, Dave Bautista, Robin Wright, Mark Arnold",
+		"Plot":"Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+		"Country":"USA, UK, Hungary, Canada, Spain",
+		"Awards":"Won 2 Oscars. Another 97 wins & 159 nominations.",
+		"Poster":"https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SX300.jpg"
+	},
+	{
+		"Title":"Inception",
+		"Year":"2010",
+		"Runtime":"148 min",
+		"Genre":"Action, Adventure, Sci-Fi, Thriller",
+		"Director":"Christopher Nolan",
+		"Actors":"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy",
+		"Plot":"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+		"Country":"USA, UK",
+		"Awards":"Won 4 Oscars. Another 152 wins & 217 nominations.",
+		"Poster":"https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+	},
+	{
+		"Title":"The Matrix",
+		"Year":"1999",
+		"Runtime":"136 min",
+		"Genre":"Action, Sci-Fi",
+		"Director":"Lana Wachowski, Lilly Wachowski",
+		"Actors":"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",
+		"Plot":"A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+		"Country":"USA",
+		"Awards":"Won 4 Oscars. Another 37 wins & 50 nominations.",
+		"Poster":"https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+	}
+]
